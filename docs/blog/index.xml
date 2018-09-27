@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kelvin Hsu</title>
+    <link>https://kelvin-hsu.github.io/page/blog/</link>
+    <description>Recent content in Blog on Kelvin Hsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate>
+    
+	<atom:link href="https://kelvin-hsu.github.io/page/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best Student Paper Award at ECML 2018</title>
+      <link>https://kelvin-hsu.github.io/page/blog/best-student-paper-award-ecml-2018/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kelvin-hsu.github.io/page/blog/best-student-paper-award-ecml-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dean&#39;s Faculty Award for Outstanding Tutoring</title>
+      <link>https://kelvin-hsu.github.io/page/blog/deans-faculty-award-for-outstanding-tutoring/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kelvin-hsu.github.io/page/blog/deans-faculty-award-for-outstanding-tutoring/</guid>
+      <description>The greatest gift from the act of teaching is the lesson of empathy. Before someone can understand you, you must first understand them.
+Teaching has truly taught me so many important lessons. It teaches me about the beauty of constrasting experiences and thoughts. It teaches me about that communication is always a two way street. It teachees me that the audience and their frame of mind is always the most critical to the success and effectiveness of a presentation.</description>
+    </item>
+    
+  </channel>
+</rss>

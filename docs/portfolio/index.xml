@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Kelvin Hsu</title>
+    <link>https://kelvin-hsu.github.io/page/portfolio/</link>
+    <description>Recent content in Portfolio on Kelvin Hsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 12:58:14 +0600</lastBuildDate>
+    
+	<atom:link href="https://kelvin-hsu.github.io/page/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyperparameter Learning for Conditional Mean Embeddings with Rademacher Complexity Bounds</title>
+      <link>https://kelvin-hsu.github.io/page/portfolio/hyperparameter-learning-for-conditional-mean-embeddings-with-rademacher-complexity-bounds/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kelvin-hsu.github.io/page/portfolio/hyperparameter-learning-for-conditional-mean-embeddings-with-rademacher-complexity-bounds/</guid>
+      <description>Paper | Publication | Preprint | Code | Poster | Slides | Schedule | Video (Coming Soon)
+Abstract  Conditional mean embeddings are nonparametric models that encode conditional expectations in a reproducing kernel Hilbert space. While they provide a flexible and powerful framework for probabilistic inference, their performance is highly dependent on the choice of kernel and regularization hyperparameters. Nevertheless, current hyperparameter tuning methods predominantly rely on expensive cross validation or heuristics that is not optimized for the inference task.</description>
+    </item>
+    
+  </channel>
+</rss>

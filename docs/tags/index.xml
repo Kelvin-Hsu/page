@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kelvin Hsu</title>
+    <link>https://kelvin-hsu.github.io/page/tags/</link>
+    <description>Recent content in Tags on Kelvin Hsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kelvin-hsu.github.io/page/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference</title>
+      <link>https://kelvin-hsu.github.io/page/tags/conference/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kelvin-hsu.github.io/page/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://kelvin-hsu.github.io/page/tags/research/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kelvin-hsu.github.io/page/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kelvin-hsu.github.io/page/tags/teaching/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kelvin-hsu.github.io/page/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University</title>
+      <link>https://kelvin-hsu.github.io/page/tags/university/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kelvin-hsu.github.io/page/tags/university/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
