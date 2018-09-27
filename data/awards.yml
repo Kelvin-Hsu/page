@@ -1,0 +1,27 @@
+enable  : true
+title   : awards
+subtitle: 
+image   : images/jms-2.jpg
+awardsItem :
+  - icon  : ion-ios-lightbulb-outline
+    title : Research - Best Student Paper Award Winner at the European Conference on Machine Learning
+    description: >
+      I am the lead author of our paper on "Hyperparameter Learning for Conditional Mean Embeddings with Rademacher Complexity Bounds".
+      This paper won the Best Student ML Paper Award at ECML-PKDD 2018 (European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases).
+
+  - icon  : ion-ios-people-outline
+    title : Teaching - Dean's Faculty Award Winner for Outstanding Tutoring
+    description: >
+      The award recognises and promotes excellence in facilitating student learning by tutors in the Faculty of Engineering and Information Technologies. The faculty consists of five schools. There are 5 School Award Winners and only 1 Faculty Award Winner across the faculty. I won the 2017 Faculty Award in 2018. 
+
+  - icon  : ion-ios-book-outline
+    title : University Medalist
+    description: >
+      I am a University Medalist at the University of Sydney. I was awarded the University Medal in 2016 along with First Class Honours.
+      The University Medal is awarded to the highest achieving graduate in each degree who has an outstanding academic record.
+      It is a rare honour awarded not by the Faculty, but rather by the University Senate.
+
+  - icon  : ion-ios-musical-notes
+    title : JMS Talent Singing Competition Finalist
+    description: >
+      Music has always been one of my passions. At the JMS Talent Singing Competition 2012 finals, I wrote and sang two original songs, one with the guitar and the other with the piano.

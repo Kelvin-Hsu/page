@@ -1,0 +1,37 @@
+enable  : true
+title   : My Skills and Experience
+subtitle: >
+  
+item    :
+  - icon  : ion-ios-lightbulb-outline
+    title : Machine Learning Research
+    description : >
+      Best Student Paper Award Winner at the European Conference of Machine Learning 2018
+      
+  - icon  : ion-ios-filing-outline
+    title : Software Design and Programming
+    description : >
+      Former Machine Learning Research Engineer and Software Engineer at Data61, CSIRO
+      
+  - icon  : ion-ios-book-outline
+    title : Mathematics and Statistics
+    description : >
+      University Medalist with First Class Honours in Bachelor of Mechatronic (Space) Engineering and Bachelor of Science (Advanced Mathematics and Statistics)
+
+  - icon  : ion-ios-people-outline
+    title : Teaching, Speaking, and Presenting
+    description : >
+      Dean's Faculty Award Winner for Outstanding Tutoring 2017 and more than 5 years experience over 9 courses from undergraduate to postgraduate level
+
+  - icon  : ion-ios-musical-notes
+    title : Music and Performance
+    description : >
+      JMS Talent Singing Competition Finalist
+
+  - icon  : ion-jet
+    title : Curious Learner
+    description : >
+      An interesting experience is always one that involves a lot of learning |
+
+      Be curious, and you will find that life is full of new unforgettable moments
+      

@@ -1,0 +1,9 @@
+enable  : true
+galleryImages :
+  - image : images/fulong.jpg
+  - image : images/kobe-city.jpg
+  - image : images/jms-1.jpg
+  - image : images/jms-2.jpg
+  - image : images/kelvin.jpg
+  - image : images/tutor-award.jpg
+  - image : images/best-paper-award.jpg

@@ -1,0 +1,105 @@
+enable  : true
+title   : Where I've Been
+description: >
+  As a kid, I moved around a lot. I was brought into this world in Taiwan, and grew up in Australia and the Netherlands for pre-school. When I returned to Taiwan for elementary school, I realized my Mandarin was only good enough to ask for apple juice but not to actually make friends. Two years later, I was only speaking Mandarin and forgot that English existed. So, when we moved to Shanghai, I studied at a bilingual international school for elementary, middle, and high school. Thankfully, I am fluent in both now. No, sadly I do not speak Dutch. I eventually finished my high school in back in Sydney, Australia.
+  <br>
+  <br>
+  I completed my undergraduate studies in Mechatronic Engineering, Space Engineering, Advanced Mathematics and Statistics, and Financial Mathematics at the [University of Sydney](https://sydney.edu.au/) with a [University Medal](/awards/) and First Class Honours as the highest achieving graduate in 2015.
+  <br>
+  <br>
+  My research experience began in 2012, where I joined the [Institute of Biomedial Engineering and Technology](https://sydney.edu.au/engineering/our-research/biomedical-engineering/institute-of-biomedical-engineering-and-technology.html) to facilitate medical physics research in an emerging medical imaging technology by liaising with industry supervisors. By simulating ultrasound response of bio-tissues under magnetic stimulation, we verified and demonstrated the possibility of treating tumours without direct physical contact. This experience enlightened me towards the combined power of rigorous mathematical modeling with data driven computation. As someone who fancied mathematics for its theoretical elegance, it was the first time I appreciated its practical implications to the real world. 
+  <br>
+  <br>
+  In 2013, I joined [CSIRO Astronomy and Space Science](https://www.csiro.au/en/Research/Astronomy) to satisfy my life long admiration of space and astronomy. My fascination with space and astronomy stemmed from my early childhood in my room back in Netherlands where I would watch all sorts of space related documentaries. I remember I used to ask my parents to pretend to be the sun while I ran around them in circles claiming the title of Earth. To my great disappointment, my sister was too young at the time to be my moon.
+  <br>
+  <br>
+  By applying my skillset in software engineering and statistics, I developed and released an interactive data visualisation software in python that is intuitive for visualising radio astronomical data and tracking relevant parameters for [Duchamp](http://www.atnf.csiro.au/people/Matthew.Whiting/Duchamp/). As a side project, we also collected and deduced inter-galatic interactions from HI radio emission data on my trip to the [Australia Telescope Compact Array (ATCA)](http://www.narrabri.atnf.csiro.au/), where I had to face off dozens of Kangaroos in a pitch dark radio-free zone at 10 pm. That's okay though, at least I survived enough to see the Great Red Spot on Jupiter with an in-house optical telescope.
+  <br>
+  <br>
+  My journey in machine learning research began when I joined the [Spatial Systems Inference Team](http://data61.csiro.au/en/Our-Work/Safety-and-Security/Understanding-Risk/Determinant) at [National ICT Australia](https://www.data61.csiro.au/) as an research scholar and software engineer in 2014, where I worked with a brilliant team of experts in Bayesian machine learning. Due to my love for mathematics and statistics, I was immediately attracted to the elegance and inference capabilities of Gaussian processes. This then became my first exposure to machine learning research and development, where I led the design of a Gaussian process based active learning algorithm that reduced previously expensive simulation time required for discovering optimal solutions from months to just hours. This made scientific discoveries in complex ecological system feasible.
+  <br>
+  <br>
+  In 2015, I extended this active learning algorithm for sequential decision making and [designed a mutual entropy measure for informative exploration under uncertainty using Bayesian optimization with Gaussian processes](http://www.araa.asn.au/acra/acra2015/papers/pap142.pdf). The resulting algorithm enabled autonomous agents to gather information actively and efficiently to learn about its environment by considering a long term and adaptive view for its planning. This algorithm was able to consistently outperform all existing algorithms that do not take mutual information into account by increasing information gathered by up to 110% (2.1 times) in the same amount of time. This algorithm and technique was published in our [paper](http://www.araa.asn.au/acra/acra2015/papers/pap142.pdf) at [ACRA 2015](http://www.araa.asn.au/category/acra-2015/#h) and included in my [honours thesis](https://www.dropbox.com/s/ijiot4mekaw429f/Informative-Seafloor-Exploration-for-Benthic-Habitat-Mapping.pdf).
+  <br>
+  <br>
+  Despite its effectiveness, this research revealed the demand for richer representations of uncertainty that remain tractably scalable for its learning and inference. This intrigued me further and later formed the core of my current research interests in my PhD, which are broadly at the union of approximate Bayesian inference, implicit and intractable models, kernel mean embeddings of distributions, and deep learning. 
+  <br>
+  <br>
+  I started my PhD in Machine Learning in 2016 at the [University of Sydney](https://sydney.edu.au/) and [Data61, CSIRO](https://www.data61.csiro.au/) with [Fabio Ramos](http://www-personal.usyd.edu.au/~framos) and [Richard Nock](http://users.cecs.anu.edu.au/~rnock/), focusing on the aforementioned areas. In 2018, our research on [hyperparameter learning for kernel mean embeddings](http://localhost:1313/portfolio/hyperparameter-learning-for-conditional-mean-embeddings-with-rademacher-complexity-bounds/) won the [Best Student Paper Award](/blog/best-student-paper-award-ecml-2018/) at the [European Conference on Machine Learning 2018](http://www.ecmlpkdd2018.org/programme/#tab-id-2).
+  <br>
+  <br>
+  Oh, and in 2016, [National ICT Australia](https://www.data61.csiro.au/) became known as [Data61](https://www.data61.csiro.au/) under [CSIRO](https://www.csiro.au/), so it turns out I'm back at [CSIRO](https://www.csiro.au/) again!
+  <br>
+  <br>
+  I also have a passion for teaching and education. It has been almost 6 years since I started tutoring at the [School of Information Technologies](https://sydney.edu.au/engineering/about/school-of-information-technologies.html), where I taught a first year introductory programming course. Since then, I have taught at the [School of Aerospace, Mechanical and Mechatronic Engineering](https://sydney.edu.au/engineering/about/school-of-aerospace-mechanical-and-mechatronic-engineering.html), [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/), and [School of Business Analystics](http://sydney.edu.au/business/business_analytics), ranging from courses at the first year undergraduate level to capstone units at the postgraduate level in Machine Learning, Data Science, Mathematical Statistics, Software Engineering, Systems Engineering, Control Theory, Space Engineering, and Risk Management. Teaching highly technical subjects to a wide variety of audiences of contrasting backgrounds is an immensely challenging and rewarding experience. Over the years, teaching has become a core part of my identity that shapes the way I do things even outside of teaching. I have learned so many lessons from teaching itself that I apply these lessons constantly in my everyday life. In 2018, my efforts in teaching and education won the [Dean's Faculty Award for Outstanding Tutoring](/blog/deans-faculty-award-for-outstanding-tutoring/).
+  <br>
+  <br>
+  When I am not doing research or teaching, you can find me busking on the streets of Sydney on weekends or Friday nights with our acoustic band, [YueAcoustic](https://www.facebook.com/yueacoustics/). I sing and play the guitar and keyboard. We also perform at weddings, cafes, and various social events. I sometimes improvise or write original songs for leisure and participate in singing competitions, where I was a [JMS Talent Singing Competition Finalist](/awards/) in 2012.
+  <br> 
+  <br> 
+  <br><font size="+2">Publications</font> 
+  <br>
+  <br> Kelvin Hsu, Richard Nock, and Fabio Ramos
+  <br> [Hyperparameter Learning for Conditional Mean Embeddings with Rademacher Complexity Bounds](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/106.pdf)
+  <br> [ECML-PKDD 2018](http://www.ecmlpkdd2018.org/programme/#tab-id-2), European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+  <br> *Best Student Paper Award Winner*
+  <br>
+  <br> Kelvin Hsu, Simon O'Callaghan, Alistar Reid, and Stefan Williams
+  <br> [Informative seafloor exploration using the linearised differential entropy of Gaussian process classifiers](http://www.araa.asn.au/acra/acra2015/papers/pap142.pdf)
+  <br> [ACRA 2015](http://www.araa.asn.au/category/acra-2015/#h), Australasian Conference on Robotics and Automation
+  <br> 
+  <br> 
+  <br><font size="+2">Teaching Experience</font> 
+  <br> 
+  <br> <b> Postgraduate Level Courses </b>
+  <br> COMP5318 (Machine Learning and Data Mining), Postgraduate, 2017 - 2018
+  <br> QBUS6810 (Statistical Learning and Data Mining), Postgraduate, 2018
+  <br> BUSS6002 (Data Science in Business), Postgraduate, 2017 - 2018
+  <br> QBUS6820 (Business Risk Management), Postgraduate, 2017 - 2018
+  <br>
+  <br> <b> Undergraduate Level Courses </b>
+  <br> AERO4701 (Space Engineering 3), Capstone Undergraduate, 2016 (Assistant Lecturer)
+  <br> QBUS3820 (Machine Learning and Data Mining), Final Year Undergraduate, 2017
+  <br> AMME3500 (System Dynamics and Control), Third Year Undergraduate, 2016
+  <br> STAT1005 (Statistics), First Year Undergraduate, 2017
+  <br> ENGG1801 (Engineering Computing), First Year Undergraduate, 2013 - 2018
+  <br> 
+  <br> 
+  <br><font size="+2">Links</font> 
+  <br>
+  <br> Academic Record: [University Medal](/files/records/BEng-Mechatronic-Space-Engineering.pdf) | [Advanced Mathematics](/files/records/BSc-Advanced-Mathematics.pdf) | [Transcript](/files/records/transcript.pdf)
+  <br>
+  <br> References: [Dr. Simon O'Callaghan](/files/references/Simon-OCallaghan.pdf) | [Dr. Matthew Whiting](/files/references/Matthew-Whiting.pdf) | [Dr. Jason Chan](/files/references/Tutor-Award-Recommendation-Jason-Chan.pdf) | [Dr. Alistar McEwan](/files/references/Alistair-McEwan.pdf)
+image   : images/kobe-city.jpg
+# image2  : images/fulong.jpg
+
+aboutItem:
+  - title :
+    description: |
+      "During his time at NICTA, he demonstrated an exemplary work ethic coupled with an innate ability to think critically about complex theoretical issues. Kelvin has always expressed a strong desire to develop a deep understanding of the machine learning techniques that we use daily and, as a result, has been able to effectively leverage their capabilities to solve real world scientific problems.
+    description2: |
+       Kelvin designed and coded an active sampling algorithm for guiding autonomous underwater vehicles during habitat mapping expeditions. I was struck by Kelvin’s ability to operate under minimal guidance; suggestions that I would make to him would quickly become an implemented reality and iterated upon within days. His work has resulted in a paper getting accepted to the Australasian Conference on Robotics and Automation 2015.
+    description3: |
+       Kelvin’s communication skills are a rarity amongst undergraduates. On several occasions during his internship and honours work, he has been required to present his progress to others both in the form of written reports and oral presentations. My colleagues and I are frequently impressed with his talent to distil complicated methodologies into concise points and make them accessible to a variety of audiences."
+    person: Dr. [Simon O'Callaghan](/files/references/Simon-OCallaghan.pdf) <br> Senior Research Engineer <br> Machine Learning Research Group <br> National ICT Australia
+
+  - title : 
+    description: |
+      "Kelvin has built a very impressive graphical interface that allows a user to examine the results of a Duchamp search. This will help astronomers make better sense of their search result. This was a complex task, requiring understanding of the various data structures and the ability to put together different elements of python programming.
+    description2: |
+       I was also very impressed with Kelvin's presentation skills. Kelvin's presentation was, in my opinion, one of the best. He was very confident, and did an excellent job at presenting something that can be difficult."
+    person: Dr. [Matthew Whiting](/files/references/Matthew-Whiting.pdf) <br> Research Scientist and Manager <br> CSIRO Astronomy and Space Science
+
+  - title : 
+    description: |
+      "Many students cited that he was very generous and patient, and that they felt comfortable due to his friendly nature. He would get them to think and guide them towards the solution without actually giving them the answers, showing Kelvin's commitment to quality work. Students were able to understand complicated concepts easily because of Kelvin’s very clear explanations and presentation style. Kelvin’s overwhelmingly positive attitude and enthusiasm for learning is clearly felt by students.
+    description2: |
+       In the UoS surveys (run by the School of IT and ITL) since 2013 when Kelvin began tutoring, Kelvin has always had a very high quantity of strong and enthusiastically positive comments, without a single negative comment at all. Even amongst the excellent standard of tutors, this suggests to me that Kelvin is one of the best tutors of all time, even better than previous tutoring award winners."
+    person: Dr. [Jason Chan](/files/references/Tutor-Award-Recommendation-Jason-Chan.pdf) <br> Lecturer and Course Coordinator <br> School of Information Technologies <br> University of Sydney
+
+  # - title : 
+  #   description: |
+  #     "He took this project well in his stride, requiring little supervision and assistance. He was able to solve problems on his own and by liaising with industry supervisors. In my experience this is fairly rare with engineering students who have not been exposed to research."
+  #   person: Dr. [Alistair McEwan](/files/references/Alistair-McEwan.pdf), Professor, Computing and Audio Research Laboratory, University of Sydney 
+
+  # As a kid, I spent my time across many continents. I was brought into this world in Taichung, Taiwan. Soon after, I moved to Sydney, Australia at 2 years old. Consequently, I am bilingual in English and Mandarin. I then moved to Wassenaar, Netherlands at 4 where I somehow managed to get by without ever learning Dutch. As I studied in an American school, I ; Taipei, Taiwan at 6 where I had to relearn all my Mandarin; Shanghai, China at 8 where I studied at an international school, and back to Sydney at 15. 

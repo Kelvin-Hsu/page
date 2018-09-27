@@ -1,0 +1,92 @@
+baseURL = "https://kelvin-hsu.github.io/page/"
+languageCode = "en-us"
+title = "Kelvin Hsu"
+theme = "timer-hugo"
+publishDir = "docs"
+canonifyurls = true
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Experiences"
+        url     = "/about"
+        weight  = 2
+    [[menu.nav]]
+#        name    = "CV"
+#        url     = "/files/cv.pdf"
+#        weight  = 2
+    [[menu.nav]]
+        name    = "Portfolio"
+        url     = "/portfolio"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Awards"
+        url     = "/awards"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Gallery"
+        url     = "/gallery"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "/contact"
+        weight  = 7
+
+[params]
+    home = "Home"
+    logo = "images/kelvin-icon-2-resize.gif"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/fulong.jpg"
+        heading = "KELVIN HSU"
+        description = ""
+        btn     = true
+        btnText = "Curriculum Vitae"
+        btnURL  = "files/cv.pdf"
+        [[params.banner.flipText]]
+            title   = "Machine Learning Researcher"
+        [[params.banner.flipText]]
+            title   = "Teacher and Educator"
+        [[params.banner.flipText]]
+            title   = "Acoustic Musician"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT ME"
+        content = "Hi, I'm Kelvin. I am a researcher, a teacher, and a hobby musician. <br> <br> I am currently completing my PhD in Machine Learning at the [University of Sydney](https://sydney.edu.au/) and [Data61, CSIRO](https://www.data61.csiro.au/) with [Fabio Ramos](http://www-personal.usyd.edu.au/~framos) and [Richard Nock](http://users.cecs.anu.edu.au/~rnock/). I am fascinated by the mathematics and statistics behind the most sophisticated learning and inference algorithms that underpin modern artificial intelligence. I believe that the world is not only a better place, but also a more interesting one when viewed from a data-centric and learning-centric perpespective. My research mission is to discover richer representations of uncertainty and design inference frameworks to learn them accurately and efficiencly. My research interests are broadly at the union of approximate Bayesian inference, implicit and intractable models, kernel mean embeddings of distributions, and deep learning. <br> <br> Throughout my years at the university, I also grew to enjoy teaching. Over the last 6 years I have tutored 9 courses at the [School of Information Technologies](https://sydney.edu.au/engineering/about/school-of-information-technologies.html), [School of Aerospace, Mechanical and Mechatronic Engineering](https://sydney.edu.au/engineering/about/school-of-aerospace-mechanical-and-mechatronic-engineering.html), [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/), and [School of Business Analystics](http://sydney.edu.au/business/business_analytics), ranging from courses at the first year undergraduate level to capstone units at the postgraduate level in Machine Learning, Data Science, Mathematical Statistics, Software Engineering, Systems Engineering, Control Theory, Space Engineering, and Risk Management. Teaching highly technical subjects to a wide variety of audiences of contrasting backgrounds is an immensely challenging and rewarding experience. Over the years, teaching has become a core part of my identity that shapes the way I do things even outside of teaching. I have learned so many lessons from teaching itself that I apply these lessons constantly in my everyday life. <br> <br> I also see myself as a hobby musician. I enjoy singing and playing the guitar and piano. Sometimes, you can find me busking with my friends, or performing at weddings and restaurants."
+
+        image   = "images/kelvin-face.gif"
+#        image2  = "images/kelvin-icon-2.gif"
+
+#    # Call to Action
+#    [params.cta]
+#        enable  = true
+#        title   = "SO WHAT YOU THINK ?"
+#        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+#        btnText = "Contact with me"
+#        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Latest Works"
+        subtitle= ""
+
+#    # Feature Product Section
+#    [params.featureProduct]
+#        enable  = true
+#        title   = "SOME OF OUR FEATURES WORKS"
+#        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    
