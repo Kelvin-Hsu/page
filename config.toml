@@ -54,11 +54,11 @@ canonifyurls = true
         btnText = "Curriculum Vitae"
         btnURL  = "files/cv.pdf"
         [[params.banner.flipText]]
-            title   = "Machine Learning Researcher"
+            title   = "Researcher"
         [[params.banner.flipText]]
-            title   = "Teacher and Educator"
+            title   = "Teacher"
         [[params.banner.flipText]]
-            title   = "Acoustic Musician"
+            title   = "Musician"
 
     # Homepage About Section
     [params.about]
