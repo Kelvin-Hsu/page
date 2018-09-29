@@ -2,7 +2,7 @@
 title: "Hyperparameter Learning for Conditional Mean Embeddings with Rademacher Complexity Bounds"
 type: portfolio
 date: 2018-09-10
-caption: Best Student Paper Award Winner at ECML-PKDD 2018 --- Using learning theory to prevent generalization risk in multiclass predictions
+caption: Best Student Paper Award Winner at ECML-PKDD 2018 | Using learning theory to prevent generalization risk in multiclass predictions
 image: images/iris.gif
 category: ["Research"]
 liveLink:
