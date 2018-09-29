@@ -41,7 +41,7 @@ canonifyurls = true
 
 [params]
     home = "Home"
-    logo = "images/logo-1.png"
+    logo = "images/logo-1-transparent.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
