@@ -12,11 +12,12 @@ session: Best Student ML Paper Award Plenary Talk
 submitDate: September 10, 2018
 location: Croke Park, Dublin, Ireland
 ---
-[Paper](/files/papers/Hyperparameter-Learning-for-Conditional-Mean-Embeddings-with-Rademacher-Complexity-Bounds.pdf) | [Publication](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/106.pdf) | [Preprint](https://arxiv.org/abs/1809.00175) | [Code](https://github.com/Kelvin-Hsu/cake) | [Poster](/files/posters/mce_rcb_poster.pdf) | [Slides](/files/presentations/mce-rcb-presentation.pptx) | [Schedule](http://www.ecmlpkdd2018.org/programme/#tab-id-2) | Video (Coming Soon)
-
 ### Abstract
 
 > Conditional mean embeddings are nonparametric models that encode conditional expectations in a reproducing kernel Hilbert space. While they provide a flexible and powerful framework for probabilistic inference, their performance is highly dependent on the choice of kernel and regularization hyperparameters. Nevertheless, current hyperparameter tuning methods predominantly rely on expensive cross validation or heuristics that is not optimized for the inference task. For conditional mean embeddings with categorical targets and arbitrary inputs, we propose a hyperparameter learning framework based on Rademacher complexity bounds to prevent overfitting by balancing data fit against model complexity. Our approach only requires batch updates, allowing scalable kernel hyperparameter tuning without invoking kernel approximations. Experiments demonstrate that our learning framework outperforms competing methods, and can be further extended to incorporate and learn deep neural network weights to improve generalization.
+
+[Paper](/files/papers/Hyperparameter-Learning-for-Conditional-Mean-Embeddings-with-Rademacher-Complexity-Bounds.pdf) | [Publication](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/106.pdf) | [Preprint](https://arxiv.org/abs/1809.00175) | [Code](https://github.com/Kelvin-Hsu/cake) | [Poster](/files/posters/mce_rcb_poster.pdf) | [Slides](/files/presentations/mce-rcb-presentation.pptx) | [Schedule](http://www.ecmlpkdd2018.org/programme/#tab-id-2) | Video (Coming Soon)
+
 
 ### Story
 
