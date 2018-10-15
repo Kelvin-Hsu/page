@@ -7,11 +7,6 @@ author: Kelvin Hsu
 tags: ["Research", "Conference"]
 ---
 
-<p align="center">
-  <img src="/images/best-paper-award.jpg" width="700"/>
-  <p align="center"> Michele announcing the Best Student Machine Learning Paper Award Winner at the Mansion House Dublin </p>
-</p>
-
 At the welcome reception during the first night of the conference, our paper was announced the Best Student Paper Award Winner at the European Conference on Machine Learning 2018!
 
 My talk was originally scheduled two days later for 20 minutes. With this announcement though, this meant that my talk was to be presented to the entire conference, moved 1 day earlier to the very next morning, and also doubled in time to 40 minutes. So, you can imagine the adrenaline rushing like there IS a tomorrow that night (get it?)
@@ -26,10 +21,10 @@ Overall, it was probably one of the most surreal experiences I ever had. It took
 
 [Here is the story behind the paper](/portfolio/hyperparameter-learning-for-conditional-mean-embeddings-with-rademacher-complexity-bounds)
 
-<!-- <p align="center">
-  <img src="/images/malahide.jpg" width="700"/>
-  <p align="center"> Malahide castle trip with the conference cohort! </p>
-</p> -->
+<p align="center">
+  <img src="/images/best-paper-award.jpg" width="700"/>
+  <p align="center"> Michele announcing the Best Student Machine Learning Paper Award Winner at the Mansion House Dublin </p>
+</p>
 
 <p align="center">
   <img src="/images/talk-crop.png" width="700"/>
@@ -41,17 +36,19 @@ Overall, it was probably one of the most surreal experiences I ever had. It took
   <p align="center"> If nothing else, at least people seem to have remembered the superman analogy even after a few more days of intense conference talks! </p>
 </p>
 
-
 <p align="center">
   <img src="/images/talk3-crop.png" width="700"/>
   <p align="center"> A simple extension to treat neural network parameters as kernel hyperparameters to learn </p>
 </p>
 
-
-
 <p align="center">
   <img src="/images/ecml-schedule-circle.png" width="700"/>
   <p align="center"> Scheduled talk </p>
+</p>
+
+<p align="center">
+  <img src="/images/malahide.jpg" width="700"/>
+  <p align="center"> Malahide castle trip with the conference cohort! </p>
 </p>
 
 <!-- <video controls="controls" width="700">
