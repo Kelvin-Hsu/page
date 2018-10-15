@@ -13,3 +13,7 @@ Teaching has truly taught me so many important lessons. It teaches me about the 
 
 Thank you to all my past and present students who supported me for this award. I'm humbled to know that I have made a positive difference to your learning, and that people actually tolerate my terrible nerdy jokes.
 
+<p align="center">
+  <img src="/images/kelvin-tutor-award-winner.jpg" width="700"/>
+</p>
+

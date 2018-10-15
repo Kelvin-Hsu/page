@@ -47,18 +47,18 @@ canonifyurls = true
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/kobe-city-crop.jpg"
+        bgImage = "images/malahide-crop.jpg"
         heading = "KELVIN HSU"
         description = ""
         btn     = true
         btnText = "Curriculum Vitae"
         btnURL  = "files/cv.pdf"
         [[params.banner.flipText]]
-            title   = "Researcher"
+            title   = "Machine Learning PhD"
         [[params.banner.flipText]]
-            title   = "Teacher"
+            title   = "University Tutor"
         [[params.banner.flipText]]
-            title   = "Musician"
+            title   = "Hobby Musician"
 
     # Homepage About Section
     [params.about]
