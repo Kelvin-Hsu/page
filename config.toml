@@ -54,7 +54,7 @@ canonifyurls = true
         btnText = "Curriculum Vitae"
         btnURL  = "files/cv.pdf"
         [[params.banner.flipText]]
-            title   = "Machine Learning PhD"
+            title   = "PhD Candidate"
         [[params.banner.flipText]]
             title   = "University Tutor"
         [[params.banner.flipText]]
