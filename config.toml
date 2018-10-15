@@ -47,7 +47,7 @@ canonifyurls = true
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/malahide-3.jpg"
+        bgImage = "images/malahide-5.jpg"
         heading = "KELVIN HSU"
         description = ""
         btn     = true
