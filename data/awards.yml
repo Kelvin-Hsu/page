@@ -1,7 +1,7 @@
 enable  : true
 title   : awards
 subtitle: 
-image   : images/jms-2.jpg
+image   : images/tutor-award-best-paper-award.jpg
 awardsItem :
   - icon  : ion-ios-lightbulb-outline
     title : Research - Best Student Paper Award Winner at the European Conference on Machine Learning
