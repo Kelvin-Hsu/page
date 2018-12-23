@@ -39,8 +39,12 @@ description: >
   <br> 
   <br><font size="+2">Publications</font> 
   <br>
+  <br> Kelvin Hsu and Fabio Ramos
+  <br> Bayesian Learning of Conditional Kernel Mean Embeddings for Automatic Likelihood-Free Inference
+  <br> [AISTATS 2019](https://www.aistats.org/), International Conference on Artificial Intelligence and Statistics (To appear April 2019)
+  <br>
   <br> Kelvin Hsu, Richard Nock, and Fabio Ramos
-  <br> [Hyperparameter Learning for Conditional Mean Embeddings with Rademacher Complexity Bounds](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/106.pdf)
+  <br> [Hyperparameter Learning for Conditional Kernel Mean Embeddings with Rademacher Complexity Bounds](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/106.pdf)
   <br> [ECML-PKDD 2018](http://www.ecmlpkdd2018.org/programme/#tab-id-2), European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
   <br> *Best Student Paper Award Winner*
   <br>
@@ -53,7 +57,7 @@ description: >
   <br>
   <br> Kelvin Hsu and Fabio Ramos
   <br> Bayesian Learning of Conditional Kernel Means for Automatic Likelihood-Free Inference
-  <br> [NIPS BNP 2018](https://sites.google.com/view/nipsbnp2018/home), Conference on Neural Information Processing Systems: Workshop on All of Bayesian Nonparametrics
+  <br> [BNP@NeurIPS 2018](https://sites.google.com/view/nipsbnp2018/home), Conference on Neural Information Processing Systems: Workshop on All of Bayesian Nonparametrics
   <br> 
   <br> 
   <br><font size="+2">Teaching Experience</font> 

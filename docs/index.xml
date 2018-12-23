@@ -22,11 +22,11 @@ My talk was originally scheduled two days later for 20 minutes. With this announ
     </item>
     
     <item>
-      <title>Hyperparameter Learning for Conditional Mean Embeddings with Rademacher Complexity Bounds</title>
-      <link>https://kelvin-hsu.github.io/page/portfolio/hyperparameter-learning-for-conditional-mean-embeddings-with-rademacher-complexity-bounds/</link>
+      <title>Hyperparameter Learning for Conditional Kernel Mean Embeddings with Rademacher Complexity Bounds</title>
+      <link>https://kelvin-hsu.github.io/page/portfolio/hyperparameter-learning-for-conditional-kernel-mean-embeddings-with-rademacher-complexity-bounds/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kelvin-hsu.github.io/page/portfolio/hyperparameter-learning-for-conditional-mean-embeddings-with-rademacher-complexity-bounds/</guid>
+      <guid>https://kelvin-hsu.github.io/page/portfolio/hyperparameter-learning-for-conditional-kernel-mean-embeddings-with-rademacher-complexity-bounds/</guid>
       <description>Abstract  Conditional mean embeddings are nonparametric models that encode conditional expectations in a reproducing kernel Hilbert space. While they provide a flexible and powerful framework for probabilistic inference, their performance is highly dependent on the choice of kernel and regularization hyperparameters. Nevertheless, current hyperparameter tuning methods predominantly rely on expensive cross validation or heuristics that is not optimized for the inference task. For conditional mean embeddings with categorical targets and arbitrary inputs, we propose a hyperparameter learning framework based on Rademacher complexity bounds to prevent overfitting by balancing data fit against model complexity.</description>
     </item>
     
