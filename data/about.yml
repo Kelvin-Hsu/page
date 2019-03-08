@@ -1,5 +1,5 @@
 enable  : true
-title   : Research and Teaching
+title   : # Research and Teaching
 description: >
   <br><font size="+2">Research Publications</font> 
   <br>
@@ -10,7 +10,7 @@ description: >
   <br> [Kelvin Hsu](https://kelvin-hsu.github.io/page/), [Richard Nock](http://users.cecs.anu.edu.au/~rnock/), and [Fabio Ramos](http://www-personal.usyd.edu.au/~framos/Home.html)
   <br> [Hyperparameter Learning for Conditional Kernel Mean Embeddings with Rademacher Complexity Bounds](/files/papers/Hyperparameter-Learning-for-Conditional-Kernel-Mean-Embeddings-with-Rademacher-Complexity-Bounds.pdf)
   <br> [ECML-PKDD 2018](http://www.ecmlpkdd2018.org/), European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
-  <br> *Best Student Paper Award Winner*
+  <br> ***Best Student Paper Award Winner***
   <br>
   <br> [Kelvin Hsu](https://kelvin-hsu.github.io/page/), [Simon O'Callaghan](https://scholar.google.com.au/citations?user=L3n2Tr0AAAAJ&hl=en), [Alistar Reid](https://scholar.google.com.au/citations?user=vBg-XOEAAAAJ&hl=en), and [Stefan Williams](http://www-personal.acfr.usyd.edu.au/stefanw/)
   <br> [Informative seafloor exploration using the linearised differential entropy of Gaussian process classifiers](http://www.araa.asn.au/acra/acra2015/papers/pap142.pdf)
@@ -38,7 +38,7 @@ description: >
   <br> Academic Record: [University Medal](/files/records/BEng-Mechatronic-Space-Engineering.pdf) | [Advanced Mathematics](/files/records/BSc-Advanced-Mathematics.pdf) | [Transcript](/files/records/transcript.pdf)
   <br>
   <br> References: [Dr. Simon O'Callaghan](/files/references/Simon-OCallaghan.pdf) | [Dr. Matthew Whiting](/files/references/Matthew-Whiting.pdf) | [Dr. Jason Chan](/files/references/Tutor-Award-Recommendation-Jason-Chan.pdf) | [Dr. Alistar McEwan](/files/references/Alistair-McEwan.pdf)
-image   : images/malahide.jpg
+image   : # images/malahide.jpg
 # image2  : images/fulong.jpg
 
 aboutItem:
