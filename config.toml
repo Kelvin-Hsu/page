@@ -56,10 +56,9 @@ canonifyurls = true
         [[params.banner.flipText]]
             title   = "Machine Learning PhD"
         [[params.banner.flipText]]
-            title   = "ECML Best Student Paper Award"
+            title   = "ECML Best Student Paper"
         [[params.banner.flipText]]
             title   = "USYD Best Tutor Award"
-
     # Homepage About Section
     [params.about]
         enable  = true
