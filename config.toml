@@ -54,11 +54,11 @@ canonifyurls = true
         btnText = "Curriculum Vitae"
         btnURL  = "files/cv.pdf"
         [[params.banner.flipText]]
-            title   = "PhD Candidate"
+            title   = "Machine Learning PhD"
         [[params.banner.flipText]]
-            title   = "Researcher"
+            title   = "ECML Best Student Paper Award"
         [[params.banner.flipText]]
-            title   = "Teacher"
+            title   = "USYD Best Tutor Award"
 
     # Homepage About Section
     [params.about]
